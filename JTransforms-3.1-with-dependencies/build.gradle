@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('JTransforms-3.1-with-dependencies.jar'))
